@@ -73,13 +73,5 @@ module.exports = {
     }
   },
 
-  /*default: {
-    ...routerBase
-  }*/
-
-  default: {
-    router: {
-      base: '/testsite/'
-    }
-  }
+  router: { base: '/testsite/' }
 }
